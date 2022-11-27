@@ -1,0 +1,2 @@
+About this project:
+5 months into the internship and a bit after i started as employee, this is the second project made for the company. This is a method which generates a legend list with top-down picture and the name of all the objects seen on the screen.
