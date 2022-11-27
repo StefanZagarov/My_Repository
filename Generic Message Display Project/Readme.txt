@@ -1,0 +1,2 @@
+4 months into the internship, this is the first project I've been assigned by the company I was working for at the time.
+This project contains two methods that when used will create a window containing a message, or an error window containing a message with a stack trace info. The messages generated are in a history log panel, from where you can see the history of what messages have been displayed aswell as the option to open a window showing the full message.
